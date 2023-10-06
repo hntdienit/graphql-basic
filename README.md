@@ -1,5 +1,8 @@
 # graphql-basic
 
+# Install dependencies
+    npm i
+
 # Build
     npm run build
 
